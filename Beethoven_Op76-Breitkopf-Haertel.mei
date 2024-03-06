@@ -21,7 +21,7 @@
                <name xml:id="name-i4r9fk">Verovio</name>
                <p xml:id="p-dq5p27">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="aee75ad" enddate="2024-03-06T16:19:14" startdate="2024-03-06T15:51:37" version="1.0.10">
+            <application xml:id="aee75ad" enddate="2024-03-06T16:23:00" startdate="2024-03-06T15:51:37" version="1.0.10">
                <name xml:id="np4uu6e">mei-friend</name>
                <p xml:id="psox92a1">First edit by mei-friend 1.0.10, 20 February 2024.</p>
             </application>
@@ -320,6 +320,7 @@
                      <dynam xml:id="dhuwvaa" place="below" staff="1" tstamp="1.000000" val="88" vgrp="208">f</dynam>
                      <dynam xml:id="duv431w" place="below" staff="2" tstamp="1.000000" val="112" vgrp="210">sf</dynam>
                      <slur xml:id="smigb851" endid="#cu1e1au" staff="1" startid="#cv6bu7c"/>
+                     <tempo xml:id="tnzi8v81" staff="1" startid="#cv6bu7c">Allegro risoluto.</tempo>
                   </measure>
                   <measure xml:id="mdm14d5" n="2" facs="#zone_01G7SDQ108SQW816FXRP7AGZPV">
                      <staff xml:id="ss7mio4" n="1">
