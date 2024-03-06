@@ -21,7 +21,7 @@
                <name xml:id="name-i4r9fk">Verovio</name>
                <p xml:id="p-dq5p27">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="aee75ad" enddate="2024-03-06T16:04:59" startdate="2024-03-06T15:51:37" version="1.0.10">
+            <application xml:id="aee75ad" enddate="2024-03-06T16:08:33" startdate="2024-03-06T15:51:37" version="1.0.10">
                <name xml:id="np4uu6e">mei-friend</name>
                <p xml:id="psox92a1">First edit by mei-friend 1.0.10, 20 February 2024.</p>
             </application>
@@ -317,7 +317,7 @@
                            </beam>
                         </layer>
                      </staff>
-                     <dynam xml:id="dhuwvaa" place="above" staff="1" tstamp="1.000000" val="88" vgrp="208">f</dynam>
+                     <dynam xml:id="dhuwvaa" place="below" staff="1" tstamp="1.000000" val="88" vgrp="208">f</dynam>
                      <tie xml:id="te69kl5" startid="#n7pyz78" endid="#nifvu6t"/>
                      <tie xml:id="t75jer8" startid="#ny2a7sm" endid="#n8gipc2"/>
                      <dynam xml:id="duv431w" place="below" staff="2" tstamp="1.000000" val="112" vgrp="210">sf</dynam>
@@ -360,7 +360,7 @@
                            </beam>
                         </layer>
                      </staff>
-                     <dynam xml:id="dwcst8a" place="above" staff="1" tstamp="1.000000" val="112" vgrp="208">sf</dynam>
+                     <dynam xml:id="dwcst8a" place="below" staff="1" tstamp="1.000000" val="112" vgrp="208">sf</dynam>
                      <tie xml:id="tsg5ipy" startid="#nntrxg4" endid="#ntsx2t9"/>
                      <dynam xml:id="d6ngesa" place="below" staff="2" tstamp="1.000000" val="112" vgrp="210">sf</dynam>
                   </measure>
@@ -447,7 +447,7 @@
                            </beam>
                         </layer>
                      </staff>
-                     <dynam xml:id="dxh4bdk" place="above" staff="1" tstamp="2.000000" val="112" vgrp="206">sf</dynam>
+                     <dynam xml:id="dxh4bdk" place="below" staff="1" tstamp="2.000000" val="112" vgrp="206">sf</dynam>
                      <dynam xml:id="d1pu8fz" place="below" staff="2" tstamp="1.000000" val="112" vgrp="210">sf</dynam>
                   </measure>
                   <measure xml:id="m3m0pec" n="5" facs="#zone_01G7SDQ1088Z5YP33B87YVVQA3">
@@ -488,7 +488,7 @@
                            </beam>
                         </layer>
                      </staff>
-                     <dynam xml:id="df7b6cd" place="above" staff="1" tstamp="1.000000" val="75" vgrp="208">mf</dynam>
+                     <dynam xml:id="df7b6cd" place="below" staff="1" tstamp="1.000000" val="75" vgrp="208">mf</dynam>
                      <tie xml:id="tuadnmc" startid="#nxdn6rw" endid="#ntcz97t"/>
                      <tie xml:id="tnx1fco" startid="#n75fjfr" endid="#nx0ss99"/>
                      <dynam xml:id="d39x1vg" place="below" staff="2" tstamp="1.000000" val="112" vgrp="210">sf</dynam>
@@ -530,7 +530,7 @@
                            </beam>
                         </layer>
                      </staff>
-                     <dynam xml:id="do7nmnp" place="above" staff="1" tstamp="1.000000" val="112" vgrp="208">sf</dynam>
+                     <dynam xml:id="do7nmnp" place="below" staff="1" tstamp="1.000000" val="112" vgrp="208">sf</dynam>
                      <tie xml:id="t3klose" startid="#nim6m04" endid="#nu5ziuw"/>
                      <dynam xml:id="d5hqo37" place="below" staff="2" tstamp="1.000000" val="112" vgrp="210">sf</dynam>
                   </measure>
