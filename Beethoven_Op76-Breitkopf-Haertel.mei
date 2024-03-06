@@ -21,7 +21,7 @@
                <name xml:id="name-i4r9fk">Verovio</name>
                <p xml:id="p-dq5p27">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="aee75ad" enddate="2024-03-06T16:08:33" startdate="2024-03-06T15:51:37" version="1.0.10">
+            <application xml:id="aee75ad" enddate="2024-03-06T16:13:19" startdate="2024-03-06T15:51:37" version="1.0.10">
                <name xml:id="np4uu6e">mei-friend</name>
                <p xml:id="psox92a1">First edit by mei-friend 1.0.10, 20 February 2024.</p>
             </application>
@@ -318,8 +318,6 @@
                         </layer>
                      </staff>
                      <dynam xml:id="dhuwvaa" place="below" staff="1" tstamp="1.000000" val="88" vgrp="208">f</dynam>
-                     <tie xml:id="te69kl5" startid="#n7pyz78" endid="#nifvu6t"/>
-                     <tie xml:id="t75jer8" startid="#ny2a7sm" endid="#n8gipc2"/>
                      <dynam xml:id="duv431w" place="below" staff="2" tstamp="1.000000" val="112" vgrp="210">sf</dynam>
                   </measure>
                   <measure xml:id="mdm14d5" n="2" facs="#zone_01G7SDQ108SQW816FXRP7AGZPV">
@@ -361,7 +359,6 @@
                         </layer>
                      </staff>
                      <dynam xml:id="dwcst8a" place="below" staff="1" tstamp="1.000000" val="112" vgrp="208">sf</dynam>
-                     <tie xml:id="tsg5ipy" startid="#nntrxg4" endid="#ntsx2t9"/>
                      <dynam xml:id="d6ngesa" place="below" staff="2" tstamp="1.000000" val="112" vgrp="210">sf</dynam>
                   </measure>
                   <measure xml:id="mlzsrty" n="3" facs="#zone_01G7SDQ1086NR8XDWNH7VY7MR6">
@@ -489,8 +486,6 @@
                         </layer>
                      </staff>
                      <dynam xml:id="df7b6cd" place="below" staff="1" tstamp="1.000000" val="75" vgrp="208">mf</dynam>
-                     <tie xml:id="tuadnmc" startid="#nxdn6rw" endid="#ntcz97t"/>
-                     <tie xml:id="tnx1fco" startid="#n75fjfr" endid="#nx0ss99"/>
                      <dynam xml:id="d39x1vg" place="below" staff="2" tstamp="1.000000" val="112" vgrp="210">sf</dynam>
                   </measure>
                   <measure xml:id="mpn1qpo" n="6" facs="#zone_01G7SDQ108QSPMG7CM4RRHBP7E">
@@ -531,7 +526,6 @@
                         </layer>
                      </staff>
                      <dynam xml:id="do7nmnp" place="below" staff="1" tstamp="1.000000" val="112" vgrp="208">sf</dynam>
-                     <tie xml:id="t3klose" startid="#nim6m04" endid="#nu5ziuw"/>
                      <dynam xml:id="d5hqo37" place="below" staff="2" tstamp="1.000000" val="112" vgrp="210">sf</dynam>
                   </measure>
                   <measure xml:id="mg6cb7e" n="7" facs="#zone_01G7SDQ108457NZA2A8E26FHVN">
