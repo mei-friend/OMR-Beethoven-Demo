@@ -11,7 +11,8 @@
                <persName role="poet">Thema</persName>
             </respStmt>
          </titleStmt>
-         <pubStmt><date isodate="2022-07-21" type="encoding-date">2022-07-21</date>
+         <pubStmt>
+            <date isodate="2022-07-21" type="encoding-date">2022-07-21</date>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-askelv">
@@ -19,6 +20,10 @@
             <application xml:id="application-732ebm" isodate="2022-07-21T22:17:59" version="3.10.0-845ab54">
                <name xml:id="name-i4r9fk">Verovio</name>
                <p xml:id="p-dq5p27">Transcoded from MusicXML</p>
+            </application>
+            <application xml:id="aee75ad" enddate="2024-03-06T16:04:59" startdate="2024-03-06T15:51:37" version="1.0.10">
+               <name xml:id="np4uu6e">mei-friend</name>
+               <p xml:id="psox92a1">First edit by mei-friend 1.0.10, 20 February 2024.</p>
             </application>
          </appInfo>
       </encodingDesc>
@@ -287,12 +292,12 @@
                                  <note xml:id="nifvu6t" oct="4" pname="f" accid.ges="s"/>
                               </chord>
                               <chord xml:id="ceg24u3" dur.ppq="12" dur="8" stem.dir="up">
-                                 <artic xml:id="asmov0v" artic="stacc"/>
+                                 <artic xml:id="asmov0v" artic="stacc" place="below"/>
                                  <note xml:id="nynsc77" oct="4" pname="d"/>
                                  <note xml:id="nplvby5" oct="4" pname="f" accid.ges="s"/>
                               </chord>
                               <chord xml:id="cq52qyw" dur.ppq="12" dur="8" stem.dir="up">
-                                 <artic xml:id="ashc0fo" artic="stacc"/>
+                                 <artic xml:id="ashc0fo" artic="stacc" place="below"/>
                                  <note xml:id="nwzvrp7" oct="4" pname="d"/>
                                  <note xml:id="nm9i155" oct="4" pname="f" accid.ges="s"/>
                               </chord>
@@ -315,7 +320,7 @@
                      <dynam xml:id="dhuwvaa" place="above" staff="1" tstamp="1.000000" val="88" vgrp="208">f</dynam>
                      <tie xml:id="te69kl5" startid="#n7pyz78" endid="#nifvu6t"/>
                      <tie xml:id="t75jer8" startid="#ny2a7sm" endid="#n8gipc2"/>
-                     <dynam xml:id="duv431w" place="above" staff="2" tstamp="1.000000" val="112" vgrp="210">sf</dynam>
+                     <dynam xml:id="duv431w" place="below" staff="2" tstamp="1.000000" val="112" vgrp="210">sf</dynam>
                   </measure>
                   <measure xml:id="mdm14d5" n="2" facs="#zone_01G7SDQ108SQW816FXRP7AGZPV">
                      <staff xml:id="ss7mio4" n="1">
@@ -330,7 +335,7 @@
                                  <note xml:id="ntsx2t9" oct="4" pname="f" accid.ges="s"/>
                               </chord>
                               <chord xml:id="ckide62" dur.ppq="12" dur="8" stem.dir="up">
-                                 <artic xml:id="alpqp0q" artic="stacc"/>
+                                 <artic xml:id="alpqp0q" artic="stacc" place="below"/>
                                  <note xml:id="niu3wv7" oct="4" pname="d"/>
                                  <note xml:id="n2bdg9a" oct="4" pname="f" accid.ges="s"/>
                               </chord>
@@ -357,7 +362,7 @@
                      </staff>
                      <dynam xml:id="dwcst8a" place="above" staff="1" tstamp="1.000000" val="112" vgrp="208">sf</dynam>
                      <tie xml:id="tsg5ipy" startid="#nntrxg4" endid="#ntsx2t9"/>
-                     <dynam xml:id="d6ngesa" place="above" staff="2" tstamp="1.000000" val="112" vgrp="210">sf</dynam>
+                     <dynam xml:id="d6ngesa" place="below" staff="2" tstamp="1.000000" val="112" vgrp="210">sf</dynam>
                   </measure>
                   <measure xml:id="mlzsrty" n="3" facs="#zone_01G7SDQ1086NR8XDWNH7VY7MR6">
                      <staff xml:id="smqcwem" n="1">
@@ -407,14 +412,14 @@
                            </beam>
                         </layer>
                      </staff>
-                     <dynam xml:id="dvp9h7r" place="above" staff="2" tstamp="1.000000" val="112" vgrp="210">sf</dynam>
+                     <dynam xml:id="dvp9h7r" place="below" staff="2" tstamp="1.000000" val="112" vgrp="210">sf</dynam>
                   </measure>
                   <measure xml:id="m8siuav" n="4" facs="#zone_01G7SDQ1084A0S7JYD079R74EX">
                      <staff xml:id="sewnf3" n="1">
                         <layer xml:id="l3qj64y" n="1">
                            <beam xml:id="bq0szyt">
                               <chord xml:id="cf7z4ty" dur.ppq="12" dur="8" stem.dir="up">
-                                 <artic xml:id="a5mcqxq" artic="stacc"/>
+                                 <artic xml:id="a5mcqxq" artic="stacc" place="below"/>
                                  <note xml:id="nrern19" oct="4" pname="d"/>
                                  <note xml:id="n2x64c0" oct="4" pname="f" accid.ges="s"/>
                               </chord>
@@ -443,7 +448,7 @@
                         </layer>
                      </staff>
                      <dynam xml:id="dxh4bdk" place="above" staff="1" tstamp="2.000000" val="112" vgrp="206">sf</dynam>
-                     <dynam xml:id="d1pu8fz" place="above" staff="2" tstamp="1.000000" val="112" vgrp="210">sf</dynam>
+                     <dynam xml:id="d1pu8fz" place="below" staff="2" tstamp="1.000000" val="112" vgrp="210">sf</dynam>
                   </measure>
                   <measure xml:id="m3m0pec" n="5" facs="#zone_01G7SDQ1088Z5YP33B87YVVQA3">
                      <staff xml:id="sdsqadc" n="1">
@@ -458,12 +463,12 @@
                                  <note xml:id="ntcz97t" oct="4" pname="f" accid.ges="s"/>
                               </chord>
                               <chord xml:id="cmwontd" dur.ppq="12" dur="8" stem.dir="up">
-                                 <artic xml:id="a5d9u0c" artic="stacc"/>
+                                 <artic xml:id="a5d9u0c" artic="stacc" place="below"/>
                                  <note xml:id="nsocg6v" oct="4" pname="d"/>
                                  <note xml:id="nxd7gtp" oct="4" pname="f" accid.ges="s"/>
                               </chord>
                               <chord xml:id="cuthci1" dur.ppq="12" dur="8" stem.dir="up">
-                                 <artic xml:id="aviy9qx" artic="stacc"/>
+                                 <artic xml:id="aviy9qx" artic="stacc" place="below"/>
                                  <note xml:id="ne3t56x" oct="4" pname="d"/>
                                  <note xml:id="n45kb0l" oct="4" pname="f" accid.ges="s"/>
                               </chord>
@@ -486,7 +491,7 @@
                      <dynam xml:id="df7b6cd" place="above" staff="1" tstamp="1.000000" val="75" vgrp="208">mf</dynam>
                      <tie xml:id="tuadnmc" startid="#nxdn6rw" endid="#ntcz97t"/>
                      <tie xml:id="tnx1fco" startid="#n75fjfr" endid="#nx0ss99"/>
-                     <dynam xml:id="d39x1vg" place="above" staff="2" tstamp="1.000000" val="112" vgrp="210">sf</dynam>
+                     <dynam xml:id="d39x1vg" place="below" staff="2" tstamp="1.000000" val="112" vgrp="210">sf</dynam>
                   </measure>
                   <measure xml:id="mpn1qpo" n="6" facs="#zone_01G7SDQ108QSPMG7CM4RRHBP7E">
                      <staff xml:id="s9niyhp" n="1">
@@ -501,7 +506,7 @@
                                  <note xml:id="nu5ziuw" oct="4" pname="f" accid.ges="s"/>
                               </chord>
                               <chord xml:id="chh3fr0" dur.ppq="12" dur="8" stem.dir="up">
-                                 <artic xml:id="ahcosmr" artic="stacc"/>
+                                 <artic xml:id="ahcosmr" artic="stacc" place="below"/>
                                  <note xml:id="nf263pt" oct="4" pname="d"/>
                                  <note xml:id="n7v8hxi" oct="4" pname="f" accid.ges="s"/>
                               </chord>
@@ -527,7 +532,7 @@
                      </staff>
                      <dynam xml:id="do7nmnp" place="above" staff="1" tstamp="1.000000" val="112" vgrp="208">sf</dynam>
                      <tie xml:id="t3klose" startid="#nim6m04" endid="#nu5ziuw"/>
-                     <dynam xml:id="d5hqo37" place="above" staff="2" tstamp="1.000000" val="112" vgrp="210">sf</dynam>
+                     <dynam xml:id="d5hqo37" place="below" staff="2" tstamp="1.000000" val="112" vgrp="210">sf</dynam>
                   </measure>
                   <measure xml:id="mg6cb7e" n="7" facs="#zone_01G7SDQ108457NZA2A8E26FHVN">
                      <staff xml:id="sehqkaa" n="1">
@@ -581,7 +586,7 @@
                            </beam>
                         </layer>
                      </staff>
-                     <dynam xml:id="d3n2pzc" place="above" staff="2" tstamp="1.000000" val="112" vgrp="211">sf</dynam>
+                     <dynam xml:id="d3n2pzc" place="below" staff="2" tstamp="1.000000" val="112" vgrp="211">sf</dynam>
                   </measure>
                   <sb xml:id="s60dqin" />
                   <ending xml:id="e21f47v" lendsym="angledown" n="1">
